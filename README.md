@@ -1,7 +1,5 @@
 中文|[English](README-en.md)
 
-![image](https://webasedoc.readthedocs.io/zh_CN/latest/_images/logo.jpg)
-
 # 什么是WeBASE
 
 **WeBASE**（WeBank Blockchain Application Software Extension） 是在区块链应用和FISCO BCOS节点之间搭建的一套通用组件，围绕交易、合约、密钥管理，数据，可视化管理来设计各个模块。开发者可以根据业务所需，选择子系统进行部署。
@@ -43,12 +41,4 @@
 * **数据统计服务 [WeBASE-Stat](https://github.com/WeBankFinTech/WeBASE-Stat)** 
 统计数据服务以前置为基础，拉取CPU、内存、IO、群组大小、群组gas、群组网络流量的数据，记录数据库。
 
-
-## 贡献说明
-请阅读我们的[贡献文档](https://webasedoc.readthedocs.io/zh_CN/latest/docs/WeBASE/CONTRIBUTING.html)，了解如何贡献代码，并提交你的贡献。
-
-希望在您的参与下，WeBASE会越来越好！
-
-## 社区
-联系我们：webase@webank.com
 
